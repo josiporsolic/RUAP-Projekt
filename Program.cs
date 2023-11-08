@@ -6,7 +6,7 @@ namespace RUAP_LV1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Josip Oršolić");
+            Console.WriteLine("Pozdrav iz aplikacije od Josip Oršolić 0165079102 7");
         }
     }
 }
